@@ -3,7 +3,7 @@
     Created 5 Jul 2019
 
     This module contains the needed functions to generate a Tiny Tim PSF, using either
-    the best-fit optical parameters found by Gillis et al. (2018) or the linear
+    the best-fit optical parameters found by Gillis et al. (2019) or the linear
     relationship with the focus-secondary-mirror despace.
 
     ---------------------------------------------------------------------
